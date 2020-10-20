@@ -15,7 +15,7 @@ class Polygon{
      this.width = width;
      this.height = height;
      
-     this.image = loadImage("Images/Hexagon0.png");
+     this.image = loadImage("Hexagon0.png");
        
      World.add(world, this.body)
    
